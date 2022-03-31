@@ -1,0 +1,9 @@
+D:\Programs\C#\WinForms\Encoder2\Encoder2\obj\Debug\Encoder2.csproj.AssemblyReference.cache
+D:\Programs\C#\WinForms\Encoder2\Encoder2\obj\Debug\Encoder2.Properties.Resources.resources
+D:\Programs\C#\WinForms\Encoder2\Encoder2\obj\Debug\Encoder2.csproj.GenerateResource.cache
+D:\Programs\C#\WinForms\Encoder2\Encoder2\obj\Debug\Encoder2.csproj.CoreCompileInputs.cache
+D:\Programs\C#\WinForms\Encoder2\Encoder2\bin\Debug\Encoder2.exe.config
+D:\Programs\C#\WinForms\Encoder2\Encoder2\bin\Debug\Encoder2.exe
+D:\Programs\C#\WinForms\Encoder2\Encoder2\bin\Debug\Encoder2.pdb
+D:\Programs\C#\WinForms\Encoder2\Encoder2\obj\Debug\Encoder2.exe
+D:\Programs\C#\WinForms\Encoder2\Encoder2\obj\Debug\Encoder2.pdb
